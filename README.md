@@ -46,7 +46,7 @@ Business Insights & Recommendations
 ## Repository Structure
 
 ```text
-Personal-Data-Analytics-Project
+Amazon-Sales-Analytics-Project
 │
 ├── Dataset
 ├── Images
